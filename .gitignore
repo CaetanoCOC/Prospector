@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+psp/
+backend/core/token.json
+backend/core/credentials.json
+psp.json
+data/
+*.db
+frontend/node_modules/
+frontend/dist/
+*.exe
+*.spec
+build/
+dist/
+.DS_Store
+
+# Arquivos internos / anotações pessoais
+.claude/
+.interface-design/
+Prospector.md
+PROSPECTOR_PROJECT_BRIEF.txt
+COMPILANDO CORRETAMENTE.txt
+design-system-references/
+"Captura de tela*.png"
+*.png
